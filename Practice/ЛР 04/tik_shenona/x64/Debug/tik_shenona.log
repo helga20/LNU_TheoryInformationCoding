@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Навчання\3_курс\tik_shenona\Source.cpp(111,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=size_t
+          ]
+  tik_shenona.vcxproj -> D:\Навчання\3_курс\tik_shenona\x64\Debug\tik_shenona.exe
