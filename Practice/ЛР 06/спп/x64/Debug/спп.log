@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Навчання\4 семестр\Теорія інформації та кодування\Практичні\ЛР 06\спп\Source.cpp(23,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 семестр\Теорія інформації та кодування\Практичні\ЛР 06\спп\Source.cpp(48): message : see reference to function template instantiation 'std::string print<std::bitset<50>>(T)' being compiled
+          with
+          [
+              T=std::bitset<50>
+          ]
+  спп.vcxproj -> D:\Навчання\4 семестр\Теорія інформації та кодування\Практичні\ЛР 06\спп\x64\Debug\спп.exe
